@@ -1,5 +1,5 @@
 import random
-
+# this was game that user should guess the number
 def guess(x):
     random_number = random.randint(1, x)
     guess = 0
@@ -11,3 +11,4 @@ def guess(x):
             print("It's to HIGH!!")
     print(f"YAY, welldone. you guessed the number CORRECTLY!! {random_number} is correct!!")
 guess(10)
+
