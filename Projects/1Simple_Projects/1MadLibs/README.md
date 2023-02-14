@@ -1,0 +1,1 @@
+## NOTE ==> i want to add some auto generator for the word guessing.
